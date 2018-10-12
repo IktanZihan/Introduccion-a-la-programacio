@@ -1,2 +1,2 @@
 # Introduccion-a-la-programacio
-practica1
+Repositorio para el curso de introducción a la programación (agosto-diciembre 2018) UPIITA
